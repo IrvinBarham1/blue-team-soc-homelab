@@ -1,4 +1,4 @@
-# blue-team-soc-homelab
+# Blue Team SOC Homelab
 
 ## 🎯 Purpose
 
